@@ -1,0 +1,25 @@
+.start_div{
+    background-color: grey;
+    margin-top: 0px;
+    border-radius: 20px;
+    width: 97.5%;
+}
+#header{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+}
+.main_body{
+    background-color:rgb(200, 188, 180);
+    margin-top: 0px;
+    height: 75%;
+    border-radius: 20px;
+    width: 97.5%;
+}
+.footer{
+    border-radius: 20px;
+    background-color: chartreuse;
+    color: white;
+    font-size: 25px;
+    height: 100px;
+    width: 97.5%;
+}
